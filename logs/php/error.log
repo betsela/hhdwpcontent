@@ -1,0 +1,514 @@
+[01-Apr-2021 20:38:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php on line 1234
+[01-Apr-2021 20:38:15 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:15 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:15 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:15 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:34
+[01-Apr-2021 20:38:15 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:38:15 UTC] PHP   5. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:38:15 UTC] PHP   6. include_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:388
+[01-Apr-2021 20:38:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php on line 1271
+[01-Apr-2021 20:38:15 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:15 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:15 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:15 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:34
+[01-Apr-2021 20:38:15 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:38:15 UTC] PHP   5. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:38:15 UTC] PHP   6. include_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:388
+[01-Apr-2021 20:38:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php on line 1275
+[01-Apr-2021 20:38:15 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:15 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:15 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:15 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:34
+[01-Apr-2021 20:38:15 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:38:15 UTC] PHP   5. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:38:15 UTC] PHP   6. include_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:388
+[01-Apr-2021 20:38:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php on line 1300
+[01-Apr-2021 20:38:15 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:15 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:15 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:15 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:34
+[01-Apr-2021 20:38:15 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:38:15 UTC] PHP   5. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:38:15 UTC] PHP   6. include_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:388
+[01-Apr-2021 20:38:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php on line 3076
+[01-Apr-2021 20:38:15 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:15 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:15 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:15 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:34
+[01-Apr-2021 20:38:15 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:38:15 UTC] PHP   5. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:38:15 UTC] PHP   6. include_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:388
+[01-Apr-2021 20:38:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php on line 3083
+[01-Apr-2021 20:38:15 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:15 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:15 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:15 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:34
+[01-Apr-2021 20:38:15 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:38:15 UTC] PHP   5. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:38:15 UTC] PHP   6. include_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:388
+[01-Apr-2021 20:38:15 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php on line 3096
+[01-Apr-2021 20:38:15 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:15 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:15 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:15 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:34
+[01-Apr-2021 20:38:15 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:38:15 UTC] PHP   5. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:38:15 UTC] PHP   6. include_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:388
+[01-Apr-2021 20:38:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php:1271) in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/pluggable.php on line 1296
+[01-Apr-2021 20:38:17 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:17 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:17 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:17 UTC] PHP   3. auth_redirect() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:99
+[01-Apr-2021 20:38:17 UTC] PHP   4. wp_redirect() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/pluggable.php:1109
+[01-Apr-2021 20:38:17 UTC] PHP   5. header() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/pluggable.php:1296
+[01-Apr-2021 20:38:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gravityforms/common.php:1271) in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/pluggable.php on line 1299
+[01-Apr-2021 20:38:17 UTC] PHP Stack trace:
+[01-Apr-2021 20:38:17 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:0
+[01-Apr-2021 20:38:17 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/index.php:10
+[01-Apr-2021 20:38:17 UTC] PHP   3. auth_redirect() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin.php:99
+[01-Apr-2021 20:38:17 UTC] PHP   4. wp_redirect() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/pluggable.php:1109
+[01-Apr-2021 20:38:17 UTC] PHP   5. header() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/pluggable.php:1299
+[01-Apr-2021 20:46:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries.php on line 32
+[01-Apr-2021 20:46:03 UTC] PHP Stack trace:
+[01-Apr-2021 20:46:03 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:0
+[01-Apr-2021 20:46:03 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:44
+[01-Apr-2021 20:46:03 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:46:03 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:46:03 UTC] PHP   5. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:557
+[01-Apr-2021 20:46:03 UTC] PHP   6. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 20:46:03 UTC] PHP   7. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 20:46:03 UTC] PHP   8. AviaBuilder->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 20:46:03 UTC] PHP   9. AviaBuilder->createShortcode() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:75
+[01-Apr-2021 20:46:03 UTC] PHP  10. avia_sc_masonry_entries->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:363
+[01-Apr-2021 20:46:03 UTC] PHP  11. avia_sc_masonry_entries->extra_assets() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:28
+[01-Apr-2021 20:46:03 UTC] PHP  12. session_start() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries.php:32
+[01-Apr-2021 20:46:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio.php on line 27
+[01-Apr-2021 20:46:03 UTC] PHP Stack trace:
+[01-Apr-2021 20:46:03 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:0
+[01-Apr-2021 20:46:03 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:44
+[01-Apr-2021 20:46:03 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 20:46:03 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 20:46:03 UTC] PHP   5. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:557
+[01-Apr-2021 20:46:03 UTC] PHP   6. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 20:46:03 UTC] PHP   7. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 20:46:03 UTC] PHP   8. AviaBuilder->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 20:46:03 UTC] PHP   9. AviaBuilder->createShortcode() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:75
+[01-Apr-2021 20:46:03 UTC] PHP  10. avia_sc_portfolio->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:363
+[01-Apr-2021 20:46:03 UTC] PHP  11. avia_sc_portfolio->extra_assets() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:28
+[01-Apr-2021 20:46:03 UTC] PHP  12. session_start() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio.php:27
+[01-Apr-2021 21:05:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries.php on line 32
+[01-Apr-2021 21:05:42 UTC] PHP Stack trace:
+[01-Apr-2021 21:05:42 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:0
+[01-Apr-2021 21:05:42 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:44
+[01-Apr-2021 21:05:42 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 21:05:42 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 21:05:42 UTC] PHP   5. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:557
+[01-Apr-2021 21:05:42 UTC] PHP   6. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:05:42 UTC] PHP   7. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:05:42 UTC] PHP   8. AviaBuilder->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:05:42 UTC] PHP   9. AviaBuilder->createShortcode() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:75
+[01-Apr-2021 21:05:42 UTC] PHP  10. avia_sc_masonry_entries->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:363
+[01-Apr-2021 21:05:42 UTC] PHP  11. avia_sc_masonry_entries->extra_assets() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:28
+[01-Apr-2021 21:05:42 UTC] PHP  12. session_start() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries.php:32
+[01-Apr-2021 21:05:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio.php on line 27
+[01-Apr-2021 21:05:42 UTC] PHP Stack trace:
+[01-Apr-2021 21:05:42 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:0
+[01-Apr-2021 21:05:42 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php:44
+[01-Apr-2021 21:05:42 UTC] PHP   3. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-load.php:37
+[01-Apr-2021 21:05:42 UTC] PHP   4. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-config.php:77
+[01-Apr-2021 21:05:42 UTC] PHP   5. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-settings.php:557
+[01-Apr-2021 21:05:42 UTC] PHP   6. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:05:42 UTC] PHP   7. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:05:42 UTC] PHP   8. AviaBuilder->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:05:42 UTC] PHP   9. AviaBuilder->createShortcode() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:75
+[01-Apr-2021 21:05:42 UTC] PHP  10. avia_sc_portfolio->init() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:363
+[01-Apr-2021 21:05:42 UTC] PHP  11. avia_sc_portfolio->extra_assets() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:28
+[01-Apr-2021 21:05:42 UTC] PHP  12. session_start() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio.php:27
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'shortcodehandler' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 480
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_blog->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_blog->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_title' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 481
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_blog->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_blog->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_ajax_hook' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 482
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_blog->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_blog->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'dragdrop-level' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 483
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_blog->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_blog->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'allowed-shortcodes' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 484
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_blog->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_blog->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/generic-helper.class.php on line 320
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_blog->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_blog->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP  13. AviaHelper::create_data_string() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:498
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'shortcodehandler' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 480
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_title' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 481
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_ajax_hook' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 482
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'dragdrop-level' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 483
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'allowed-shortcodes' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 484
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_on_load' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 495
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/generic-helper.class.php on line 320
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP  13. AviaHelper::create_data_string() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:498
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'shortcodehandler' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 480
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button_full->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button_full->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_title' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 481
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button_full->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button_full->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_ajax_hook' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 482
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button_full->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button_full->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'dragdrop-level' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 483
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button_full->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button_full->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'allowed-shortcodes' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 484
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button_full->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button_full->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_on_load' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 495
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button_full->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button_full->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/generic-helper.class.php on line 320
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_button_full->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_button_full->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP  13. AviaHelper::create_data_string() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:498
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'shortcodehandler' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 480
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_catalogue->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_catalogue->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_title' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 481
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_catalogue->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_catalogue->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'modal_ajax_hook' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 482
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_catalogue->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_catalogue->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'dragdrop-level' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 483
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_catalogue->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_catalogue->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'allowed-shortcodes' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 484
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_catalogue->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_catalogue->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'allowed-shortcodes' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 488
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_catalogue->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_catalogue->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Warning:  Illegal string offset 'allowed-shortcodes' in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 489
+[01-Apr-2021 21:06:12 UTC] PHP Stack trace:
+[01-Apr-2021 21:06:12 UTC] PHP   1. {main}() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:0
+[01-Apr-2021 21:06:12 UTC] PHP   2. require_once() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/post.php:369
+[01-Apr-2021 21:06:12 UTC] PHP   3. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-admin/admin-footer.php:78
+[01-Apr-2021 21:06:12 UTC] PHP   4. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP   6. wp_print_media_templates() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP   7. do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/media-template.php:1512
+[01-Apr-2021 21:06:12 UTC] PHP   8. WP_Hook->do_action() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php:484
+[01-Apr-2021 21:06:12 UTC] PHP   9. WP_Hook->apply_filters() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:311
+[01-Apr-2021 21:06:12 UTC] PHP  10. AviaBuilder->js_template_editor_elements() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php:287
+[01-Apr-2021 21:06:12 UTC] PHP  11. avia_sc_catalogue->prepare_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php:395
+[01-Apr-2021 21:06:12 UTC] PHP  12. avia_sc_catalogue->create_sortable_editor_element() /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:443
+[01-Apr-2021 21:06:12 UTC] PHP Fatal error:  Uncaught Error: Cannot use string offset as an array in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php:489
+Stack trace:
+#0 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php(443): aviaShortcodeTemplate->create_sortable_editor_element(Array)
+#1 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/template-builder.class.php(395): aviaShortcodeTemplate->prepare_editor_element()
+#2 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php(287): AviaBuilder->js_template_editor_elements('')
+#3 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php(484): WP in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 489

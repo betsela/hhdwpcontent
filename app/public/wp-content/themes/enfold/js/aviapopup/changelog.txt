@@ -1,0 +1,5 @@
+v1.2.0 2021-01-12
+
+- Replaced .click(function() with .on('click', function()
+- Replaced .isFunction() with 'function' === typeof 
+- Replaced .isArray with Array.isArray

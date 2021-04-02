@@ -1,0 +1,2 @@
+{"event":"error","time":1407081627,"u":"90","run":"0.34","mem":"5.25","data":"Unable to clean up (delete) temporary directory\/file: `\/nas\/wp\/www\/cluster-2991\/pestarter\/wp-content\/uploads\/backupbuddy_temp\/enrfswpga3`. You should manually delete it or check permissions."}
+{"event":"error","time":1407081627,"u":"91","run":"0.35","mem":"5.25","data":"Unable to clean up (delete) temporary directory\/file: `\/nas\/wp\/www\/cluster-2991\/pestarter\/wp-content\/uploads\/backupbuddy_temp\/zxen8z1gfd`. You should manually delete it or check permissions."}

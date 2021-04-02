@@ -1,0 +1,194 @@
+/*
+Theme Name: Enfold Child
+Description: A <a href='http://codex.wordpress.org/Child_Themes'>Child Theme</a> for the Enfold Wordpress Theme. If you plan to do a lot of file modifications we recommend to use this Theme instead of the original Theme. Updating wil be much easier then.
+Version: 1.0
+Author: Kriesi
+Author URI: http://www.kriesi.at
+Template: enfold
+*/
+
+
+/** #HEADER / #NAV **/
+
+.av-main-nav > li > a {
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: .5px;
+  font-size: 14px;
+}
+
+.social_bookmarks a:before {
+  color: #000000;
+  font-size: 16px;
+}
+
+#top #wrap_all .av-social-link-twitter a:hover,
+#top #wrap_all .av-social-link-linked-in a:hover,
+#top #wrap_all .av-social-link-instagram a:hover,
+#top #wrap_all .av-social-link-pinterest a:hover,
+#top #wrap_all .av-social-link-facebook a:hover {
+  background: #f2f2f2; 
+}
+
+/** #BANNER **/
+
+#hp-banner {
+  /*padding-left: 75px;*/
+}
+
+#hp-banner .avia-image-container {
+  margin-left: 0;
+}
+
+#hp-banner .avia-image-container img {
+  max-height: 400px;
+}
+
+#hp-banner h2 {
+  text-transform: uppercase; 
+  font-weight: 800; 
+  font-size: 60px;
+  color: #000000 !important;
+  line-height: 1; 
+}
+
+#hp-banner p {
+  font-weight: 300; 
+  font-size: 35px;
+  color: #000000 !important;
+  line-height: 1.2;
+  margin-top: 0;
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  #hp-banner .avia-image-container {
+    margin-top: 15px;
+  }
+  #hp-banner .avia-image-container.avia-align-right {float: none;}
+  #hp-banner .avia-image-container img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #hp-banner .hr-invisible {display: none;}
+  
+  #hp-banner h2 {     
+    text-align: center;
+  }
+  #hp-banner p {
+    text-align: center;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+  #hp-banner {
+    padding-left: 0;
+  }
+  
+  #hp-banner h2 {
+    font-size: 45px;
+  }
+  #hp-banner p {
+    font-size: 25px;
+  }
+}
+
+
+/** #CTA 1 **/ 
+  
+#cta-1 {
+  border: none;
+}
+
+/*#cta-1 .content {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}*/
+
+#cta-1  p {
+  text-transform: uppercase;
+  font-size: 50px;
+  line-height: 1;
+}
+
+#cta-1 strong {
+font-weight: 700;
+
+}
+
+#cta-1 p a {
+  font-size: 40px;
+}
+
+
+
+#cta-1 .av_font_icon {
+  display: inline;
+  float: none;
+  
+}
+
+#cta-1 a:hover {
+  color: #ef3fac;
+  text-decoration: none;
+}
+
+#cta-1 .av_font_icon a {
+  display: inline;
+}
+
+
+/** #CTA 2 **/
+
+#top #cta-2 h3 {
+  color: #000;
+  font-size: 45px;
+  margin-bottom: 0;
+  line-height: 1.25;
+}
+
+#top #cta-2 .quote-source {
+  white-space: nowrap;
+  font-size: .5em
+}
+
+
+/** HEADING #ICONS **/
+
+
+h2 .av_font_icon {
+  display: inline;
+  float: none;
+}
+
+
+/** PORTFOLIO GRID **/
+
+#top #wrap_all .grid-entry .grid-content .entry-content-header h3 {
+  text-align: center;
+  text-transform: none;
+  font-size: 15px;
+  font-weight: 600;
+  color: #000;
+}
+
+#top #wrap_all .grid-entry .grid-content .entry-content-header h3 a {
+  display: block; 
+  padding-bottom: 5px;
+}
+
+#top #wrap_all .grid-entry .grid-content .entry-content-header h3 a:after {
+  /*display:block;
+  color: #3dc4a0;*/
+  font-weight: 400;
+  font-size: 18px;
+  content: " \00BB";
+  cursor: pointer;
+}
+
+#top #wrap_all .grid-entry .grid-content .entry-content-header h3 a:hover {
+  color: #3dc4a0;
+}
