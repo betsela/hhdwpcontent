@@ -1,0 +1,181 @@
+.modalDialog {
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 99999;
+    opacity: 1;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: auto;
+}
+.modalDialog:target {
+    opacity: 0;
+    pointer-events: none;
+}
+.modalDialog .modal-body {
+    width: 500px !important;
+    position: relative;
+    margin: 3% auto;
+    padding: 5px 20px 13px 20px;
+    background: #fff;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+}
+.modalDialog .modal-body .close {
+    background: #007cba;
+    color: #FFFFFF;
+    line-height: 25px;
+    position: absolute;
+    right: -10px;
+    text-align: center;
+    top: -10px;
+    width: 30px;
+    height: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+    box-shadow: 1px 1px 3px #000;
+    border-radius: 100%;
+    font-size: 25px;
+    font-weight: normal;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: -moz-box;
+    display: -moz-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    -ms-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-flex-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.modal-body p{
+    border-bottom:1px solid #c0c0c0;
+    padding-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+.close:hover {
+    background: #00d9ff;
+}
+.modal-body form input[type="radio"]{
+    margin: 0 0 15px 0;
+}
+
+.modal-body form .btn-hol{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 -7.5px;
+}
+.modal-body form input.submit-skip{
+    background: #306bf9;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 13px;
+    padding: 10px;
+    white-space: nowrap;
+    flex-basis: 20%;
+    margin: 7.5px;
+    font-weight: 500;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    transition: all .3s ease;
+    border: 0 !important;
+    cursor:pointer;
+}
+.modal-body form a.submit-skip{
+    background: #ccc;
+    border-radius: 4px;
+    color: #000;
+    font-size: 13px;
+    padding: 10px;
+    white-space: nowrap;
+    flex-basis: 20%;
+    margin: 7.5px;
+    font-weight: 500;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    transition: all .3s ease;
+    border: 0 !important;
+
+}
+.modal-body form input.submit-skip:focus {
+    outline: 0 !important;
+    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -moz-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -ms-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -o-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+}
+.modal-body form a.submit-skip:focus {
+    outline: 0 !important;
+    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -moz-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -ms-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+    -o-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #007cba;
+}
+
+.modal-title{
+    margin-bottom:0px !important;
+}
+
+.form-group{
+    font-size:12px;
+
+}
+
+.form-group span{
+    position: relative;
+    display: inline-block;
+    top: -2px;
+}
+.full-width-textarea{
+    width: 95%;
+    margin-left: 5%;
+}
+
+.bottom-margin{
+    margin-bottom: 10px;
+}
+
+.skipbtn input{
+    background: #fff !important;
+    color: #cccccc !important;
+    justify-content: end;
+    display: block;
+    float: left;
+    position: relative;
+    top: -7px;
+    padding: 0px !important;
+    font-size: 11px;
+}

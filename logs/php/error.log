@@ -512,3 +512,15 @@ Stack trace:
 #2 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php(287): AviaBuilder->js_template_editor_elements('')
 #3 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
 #4 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php(484): WP in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/php/shortcode-template.class.php on line 489
+[08-Apr-2021 21:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gs_behance_getoption() in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gs-behance-portfolio-pro/gs_behance_portfolio.php:172
+Stack trace:
+#0 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php(292): my_task_function()
+#1 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#2 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#3 /Users/airadmin/Local Sites/hellohappiness/app/public/wp-cron.php(138): do_action_ref_array('gs_task_hook', Array)
+#4 {main}
+  thrown in /Users/airadmin/Local Sites/hellohappiness/app/public/wp-content/plugins/gs-behance-portfolio-pro/gs_behance_portfolio.php on line 172
+[09-Apr-2021 18:42:08 UTC] WordPress database error Duplicate entry 'SCCBPP_cookie_consent_body_text_color' for key 'option_name' for query INSERT INTO `wp_options` (`option_name`, `option_value`) VALUES ('SCCBPP_cookie_consent_body_text_color', '') made by do_action('wp_ajax_cookies_setting'), WP_Hook->do_action, WP_Hook->apply_filters, SCCBPP_WpCookie_Save->cookies_setting
+[09-Apr-2021 18:42:08 UTC] WordPress database error Duplicate entry 'SCCBPP_cookie_consent_button_type' for key 'option_name' for query INSERT INTO `wp_options` (`option_name`, `option_value`) VALUES ('SCCBPP_cookie_consent_button_type', 'cbtn_default') made by do_action('wp_ajax_cookies_setting'), WP_Hook->do_action, WP_Hook->apply_filters, SCCBPP_WpCookie_Save->cookies_setting
+[09-Apr-2021 19:23:20 UTC] WordPress database error Duplicate entry 'SCCBPP_cookie_consent_body_text_color' for key 'option_name' for query INSERT INTO `wp_options` (`option_name`, `option_value`) VALUES ('SCCBPP_cookie_consent_body_text_color', '') made by do_action('wp_ajax_cookies_setting'), WP_Hook->do_action, WP_Hook->apply_filters, SCCBPP_WpCookie_Save->cookies_setting
+[09-Apr-2021 19:23:20 UTC] WordPress database error Duplicate entry 'SCCBPP_cookie_consent_button_type' for key 'option_name' for query INSERT INTO `wp_options` (`option_name`, `option_value`) VALUES ('SCCBPP_cookie_consent_button_type', '') made by do_action('wp_ajax_cookies_setting'), WP_Hook->do_action, WP_Hook->apply_filters, SCCBPP_WpCookie_Save->cookies_setting

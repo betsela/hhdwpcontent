@@ -1,0 +1,38 @@
+Change Log
+
+2.0.10 ( 4th Mar 2021 )
+- [Added] : Popup trigger script on Popup theme.
+- [Fixed] : Function.
+- [Improved] : Admin Loading Performance.
+
+2.0.9 ( 21st Dec 2020 )
+- [Added] : Behance Projects from Team Profile.
+- [Added] : Projects from Moodboards / Collection.
+
+2.0.8 ( 5th Aug 2020 )
+- [Updated] : Behance Projects without API.
+
+2.0.7 ( 25th Mar 2020 )
+- [Fixed] : license update
+
+2.0.6 ( 24th Jan 2019 )
+- [Added] : New Theme - Filter : gs_beh_theme7
+
+2.0.5 ( 23rd Jan 2019 )
+- [Added] : Rewritten the plugin.
+- [Added] : Database added to store projects
+
+2.0.4 ( 16th Jan 2019 )
+- [Added] : Fieldwise data Like [gs_behance field="Branding"]
+
+2.0.3 ( 19th May 2018 )
+- [Added] : Auto update feature from dashboard.
+- [Added] : Licensing
+
+2.0.2 2nd Aug 2017
+- Fixed padding issue on Bootstrap based theme
+- Removed container div from Slider theme
+- Removed wildcard (*) css from custom Bootstrap.
+
+2.0.1 ( 27th February 2017)
+- Fixed Responsive Issues
